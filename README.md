@@ -1,5 +1,5 @@
 # Demo1
 
-<img src="https://travis-ci.org/jayeshcp/Demo1.svg?branch=master">
+[![Build Status](https://travis-ci.org/jayeshcp/Demo1.svg?branch=master)](https://travis-ci.org/jayeshcp/Demo1)
 
 Demo application to test Travis CI integration
